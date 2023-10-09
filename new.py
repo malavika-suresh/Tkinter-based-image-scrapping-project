@@ -9,7 +9,7 @@ import tkinter as tk
 
 win = Tk()
 win.title('Image Downloader')
-win.iconbitmap(r'icon (2).ico')
+win.iconbitmap(r'icon.ico')
 
 win.geometry('740x400+100+100')
 win.minsize(740,400)
