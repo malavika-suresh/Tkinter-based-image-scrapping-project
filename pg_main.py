@@ -88,7 +88,7 @@ def persist_image(folder_path:str,file_name:str,url:str):
 
 if __name__ == '__main__':
     wd = webdriver.Edge(r"msedgedriver.exe")
-    # queries = ["aircraft","aeorplane"] 
+  
     
     url_1 = 'https://google.com'
     queries = input("Enter name of images separated by comma ")
